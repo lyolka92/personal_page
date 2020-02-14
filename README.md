@@ -1,1 +1,1 @@
-# personal_page
+Basic css learning project
